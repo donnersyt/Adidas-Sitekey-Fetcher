@@ -36,7 +36,7 @@ class fetch():
             print("Using www.adidas.ca (CA)")
 
         else:
-            self.exiting("Only .co.uk and .com are currently supported. Please update config.json")
+            self.exiting("Only .co.uk .com .com.au .ca are currently supported. Please update config.json")
         self.kount = 1
         self.file = file
         self.s = requests.session()
