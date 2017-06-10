@@ -1,6 +1,6 @@
 # Adidas sitekey fetcher /// Captcha product finder
 
-##### Currently supported urls are .com.au .co.uk .com .ca
+##### Currently supported urls are: .com .au .co.uk .com .ca
 
 ##### Config.json
 * **delayInSeconds:** The delay between requests in seconds to prevent adidas banning you.
